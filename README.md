@@ -1,0 +1,2 @@
+# ngNinja
+AngularJS Kickstarter 
