@@ -1,0 +1,5 @@
+/*
+Grunt file for ngNinja
+ */
+
+

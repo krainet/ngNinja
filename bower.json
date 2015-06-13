@@ -1,0 +1,31 @@
+{
+  "name": "ngNinja",
+  "version": "0.0.1",
+  "homepage": "https://github.com/krainet/ngNinja",
+  "authors": [
+    "Ramón Albertí <krainet@gmail.com>"
+  ],
+  "description": "AngularJS kickstarter project",
+  "keywords": [
+    "angularjs",
+    "kickstarter",
+    "grunt",
+    "angulartdd",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "angular-bootstrap": "~0.13.0",
+    "bootstrap": "~3.3.4"
+  }
+}
